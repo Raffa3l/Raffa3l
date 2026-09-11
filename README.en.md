@@ -1,5 +1,3 @@
-# Raffael
-
 [Deutsch](https://github.com/Raffa3l/Raffa3l/blob/main/README.md) · **English**
 
 **Building Physics · Energy Systems · Climate Data · Interactive Tools**
