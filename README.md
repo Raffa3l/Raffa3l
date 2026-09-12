@@ -116,7 +116,7 @@ Meine Repositories enthalten sowohl Forschungsprototypen als auch Anwendungen f√
 
 ## Kontakt
 
-**Forschung & Experimente** [logicc.ch](https://logicc.ch)
+**Ausf√ºhrungs- und Forschungsebene** [logicc.ch](https://logicc.ch)
 
 **GitHub** [github.com/Raffa3l](https://github.com/Raffa3l)
 

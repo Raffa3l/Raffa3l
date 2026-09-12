@@ -116,7 +116,7 @@ My repositories include both research prototypes and applications for practical 
 
 ## Contact
 
-**Research & Experiments** [logicc.ch](https://logicc.ch)
+**Exec & Research Layer** [logicc.ch](https://logicc.ch)
 
 **GitHub** [github.com/Raffa3l](https://github.com/Raffa3l)
 
