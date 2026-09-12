@@ -2,11 +2,13 @@
 
 **Gebäudephysik · Energiesysteme · Klimadaten · Interaktive Werkzeuge**
 
-Ich bin Ingenieur in der Schweiz und entwickle Werkzeuge, Modelle und Visualisierungen rund um Gebäude, Raumklima und Energieversorgung. Dabei verbinde ich physikalische Modelle mit Daten und Software, um technische Zusammenhänge verständlich und untersuchbar zu machen.
+**Werkzeuge aus der Praxis.**
 
-Auf GitHub veröffentliche ich praktische Anwendungen und Experimente: von der Auswertung thermischer Behaglichkeit über wettergestützte Lüftungsempfehlungen bis zur Analyse des Schweizer Winterstrombedarfs.
+Ich bin Ingenieur aus der Schweiz und arbeite an der Schnittstelle von Architektur, Gebäudetechnik und Daten – dort, wo Normen auf Messwerte treffen und eine Tabelle nicht mehr reicht. Ich entwickle Werkzeuge, Modelle und Visualisierungen rund um Gebäude, Raumklima und Energieversorgung und verbinde dabei physikalische Modelle mit Daten und Software, um technische Zusammenhänge verständlich und untersuchbar zu machen.
 
-[Projekte](#ausgewählte-projekte) · [Fachgebiete](#fachgebiete) · [Arbeitsweise](#arbeitsweise) · [Kontakt](#kontakt)
+Was dabei entsteht, steht hier: kleine, offene Anwendungen, die eine Frage beantworten und sonst nichts. Gebaut, in Betrieb genommen, wieder zerlegt – was sich nicht bewährt, fliegt wieder raus. Die Themen reichen von der Auswertung thermischer Behaglichkeit über wettergestützte Lüftungsempfehlungen bis zur Analyse des Schweizer Winterstrombedarfs.
+
+[Projekte](#ausgewählte-projekte) · [Fachgebiete](#fachgebiete) · [Arbeitsweise](#arbeitsweise) · [Kontakt](#kontakt) · [Lizenz](#lizenz)
 
 ## Ausgewählte Projekte
 
@@ -29,7 +31,7 @@ Damit lassen sich Messdaten einordnen und Komfortbedingungen im Gebäude nachvol
 
 [![Lüftungsassistent mit Lüftungsempfehlung und prognostiziertem Temperaturverlauf für Zürich](assets/lueftungsassistent.jpg)](https://git.logicc.ch/Lueftungsassistent/)
 
-<sub>Beispielansicht vom 11.09.2026. Wetterdaten und Empfehlungen ändern sich laufend.</sub>
+<sub>Beispielansicht vom 12.09.2026. Wetterdaten und Empfehlungen ändern sich laufend.</sub>
 
 **Sommerlüftung und passive Kühlung gezielt nutzen.**
 
@@ -97,6 +99,8 @@ Weitere Experimente wie [Memex](https://github.com/Raffa3l/Memex) widmen sich de
 - **Daten prüfbar halten.** Quellen, Annahmen und Verarbeitungsschritte sollen möglichst dokumentiert sein.
 - **Bedienbarkeit ernst nehmen.** Ein technisches Werkzeug muss verständlich und im Alltag nutzbar sein.
 - **Infrastruktur bewusst wählen.** Für viele meiner Projekte genügt eine statische Anwendung ohne Server oder Benutzerkonto.
+- **In der Praxis prüfen.** Ein Modell bewährt sich erst an Messwerten und im Betrieb. Dort zeigen sich wirksame Ansätze, unerwartete Ergebnisse und die Fragen, denen nachzugehen sich lohnt.
+- **Offen teilen.** Quelltext, Annahmen und Ergebnisse veröffentliche ich so, dass andere darauf aufbauen können.
 
 ## Technologie
 
@@ -112,10 +116,12 @@ Meine Repositories enthalten sowohl Forschungsprototypen als auch Anwendungen f�
 
 ## Kontakt
 
-**Research & Projects** [logicc.ch](https://logicc.ch)
+**Forschung & Experimente** [logicc.ch](https://logicc.ch)
 
 **GitHub** [github.com/Raffa3l](https://github.com/Raffa3l)
 
 **E-Mail:** hello [at] logicc [dot] ch
 
-<sub>Die Lizenzbedingungen sind im jeweiligen Repository festgelegt.</sub>
+## Lizenz
+
+Meine Projekte stehen unter der MIT-Lizenz. Massgebend sind die Bedingungen im jeweiligen Repository.

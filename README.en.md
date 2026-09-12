@@ -2,11 +2,13 @@
 
 **Building Physics · Energy Systems · Climate Data · Interactive Tools**
 
-I am an engineer based in Switzerland, developing tools, models and visualisations for buildings, indoor climate and energy systems. I combine physical models with data and software to make technical relationships easier to understand and explore.
+**Tools built for practice.**
 
-On GitHub, I publish practical applications and experiments: from thermal comfort evaluation and weather-based ventilation guidance to the analysis of Swiss winter electricity demand.
+I am a Swiss engineer working at the intersection of architecture, MEP and data – where standards meet measurements and a spreadsheet is no longer enough. I develop tools, models and visualisations for buildings, indoor climate and energy systems, combining physical models with data and software to make technical relationships easier to understand and explore.
 
-[Projects](#selected-projects) · [Fields](#fields) · [Approach](#approach) · [Contact](#contact)
+What comes out of that work is published here: small, open applications that answer one question and nothing else. Built, put into operation, taken apart again – whatever does not prove itself is dropped. The topics range from thermal comfort evaluation and weather-based ventilation guidance to the analysis of Swiss winter electricity demand.
+
+[Projects](#selected-projects) · [Fields](#fields) · [Approach](#approach) · [Contact](#contact) · [License](#license)
 
 ## Selected Projects
 
@@ -29,7 +31,7 @@ It helps interpret measurement data and present indoor comfort conditions clearl
 
 [![Ventilation assistant showing a ventilation recommendation and predicted temperature curves for Zurich](assets/lueftungsassistent.jpg)](https://git.logicc.ch/Lueftungsassistent/)
 
-<sub>Example captured on 11 September 2026. Weather data and recommendations change over time.</sub>
+<sub>Example captured on 12 September 2026. Weather data and recommendations change over time.</sub>
 
 **Making effective use of summer ventilation and passive cooling.**
 
@@ -71,7 +73,7 @@ The calculation combines the published individual scenarios using an additive ap
 | **Building Physics** | Thermal comfort, summer heat protection, moisture and indoor climate |
 | **Climate and Weather Data** | Analysing meteorological datasets and making them useful for building-related questions |
 | **Energy Systems** | Heat pumps, electrification, photovoltaics and seasonal electricity demand |
-| **Building Technology** | Ventilation, heating, cooling and operational optimisation |
+| **MEP** | Ventilation, heating, cooling and operational optimisation |
 
 I am particularly interested in the interactions between these fields: How does a changing climate affect building requirements? What can solar protection and night cooling achieve? And how do decisions across the building stock affect the energy system?
 
@@ -97,6 +99,8 @@ Other experiments such as [Memex](https://github.com/Raffa3l/Memex) explore pers
 - **Keep data inspectable.** Sources, assumptions and processing steps should be documented wherever possible.
 - **Take usability seriously.** A technical tool needs to be understandable and useful in everyday work.
 - **Choose infrastructure deliberately.** A static application without a server or user account is sufficient for many of my projects.
+- **Test against practice.** A model proves itself against measurements and in operation. That is where effective approaches, unexpected results and the questions worth pursuing show up.
+- **Share openly.** I publish source code, assumptions and results so that others can build on them.
 
 ## Technology
 
@@ -112,10 +116,12 @@ My repositories include both research prototypes and applications for practical 
 
 ## Contact
 
-**Research & Projects** [logicc.ch](https://logicc.ch)
+**Research & Experiments** [logicc.ch](https://logicc.ch)
 
 **GitHub** [github.com/Raffa3l](https://github.com/Raffa3l)
 
 **Email:** hello [at] logicc [dot] ch
 
-<sub>Licensing terms are defined in each repository.</sub>
+## License
+
+My projects are released under the MIT License. The terms in each repository are authoritative.
