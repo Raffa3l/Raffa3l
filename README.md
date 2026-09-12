@@ -72,7 +72,7 @@ Die Berechnung kombiniert die publizierten Einzelszenarien als additive Näherun
 | :--- | :--- |
 | **Gebäudephysik** | Thermische Behaglichkeit, sommerlicher Wärmeschutz, Feuchtigkeit und Raumklima |
 | **Klima- und Wetterdaten** | Meteorologische Datensätze auswerten und für Gebäudefragen nutzbar machen |
-| **Energiesysteme** | Wärmepumpen, Elektrifizierung, Photovoltaik und saisonaler Strombedarf |
+| **Energiesysteme** | Wärmepumpen und Kälteversorgung, Elektrifizierung, Photovoltaik, saisonale Speicherung und Winterstrombedarf |
 | **Gebäudetechnik** | Lüftung, Heizung, Kühlung und Betriebsoptimierung |
 
 Besonders interessieren mich die Wechselwirkungen zwischen diesen Bereichen: Wie verändert das Klima die Anforderungen an Gebäude? Was leisten Sonnenschutz und Nachtkühlung? Und wie wirken sich Entscheidungen im Gebäudepark auf das Energiesystem aus?

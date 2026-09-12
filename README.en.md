@@ -72,7 +72,7 @@ The calculation combines the published individual scenarios using an additive ap
 | :--- | :--- |
 | **Building Physics** | Thermal comfort, summer heat protection, moisture and indoor climate |
 | **Climate and Weather Data** | Analysing meteorological datasets and making them useful for building-related questions |
-| **Energy Systems** | Heat pumps, electrification, photovoltaics and seasonal electricity demand |
+| **Energy Systems** | Heat pumps and cooling supply, electrification, photovoltaics, seasonal storage and winter electricity demand |
 | **MEP** | Ventilation, heating, cooling and operational optimisation |
 
 I am particularly interested in the interactions between these fields: How does a changing climate affect building requirements? What can solar protection and night cooling achieve? And how do decisions across the building stock affect the energy system?
