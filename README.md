@@ -25,6 +25,7 @@ Raffael ist Ingenieur aus der Schweiz und arbeitet an der Schnittstelle von Arch
 | [SIA 180 · Thermische Behaglichkeit](https://github.com/Raffa3l/SIA-180-thermal-comfort) | Gebäudephysik, Normen | Gemessene Raumtemperaturen nach SIA 180:2014 einordnen und Komfortgrenzen sichtbar machen. |
 | [Lüftungsassistent](https://github.com/Raffa3l/Lueftungsassistent) | Sommerlicher Wärmeschutz | Stündlich entscheiden, ob Fenster offen oder geschlossen sein sollten – auf Basis von Wetterprognose und Raummodell. |
 | [Winterstromlücke 2050](https://github.com/Raffa3l/Winterstromluecke-2050) | Energiesysteme | Erkunden, wie Sanierung, Wärmepumpen und Klima die Schweizer Winterstromlücke verändern. |
+| [h,x-Diagramm](https://github.com/Raffa3l/hx-Diagramm) | Gebäudetechnik, Luftbehandlung | Zustandsänderungen feuchter Luft im Mollier-Diagramm konstruieren und Heiz-, Kühl- und Befeuchtungsleistungen direkt ablesen. |
 | [todo.txt App](https://github.com/Raffa3l/todo.txt-App) | Werkzeug | Aufgaben im offenen Klartextformat verwalten – vollständig im Browser, ohne Backend. |
 | [Memex](https://github.com/Raffa3l/Memex) | Wissensmanagement | Ein persönliches Wissenssystem, das ein LLM aus PDFs als Wiki aufbaut und pflegt. |
 
@@ -73,6 +74,21 @@ Raffael ist Ingenieur aus der Schweiz und arbeitet an der Schnittstelle von Arch
 
 [Anwendung öffnen →](https://git.logicc.ch/Winterstromluecke-2050/) · [Repository](https://github.com/Raffa3l/Winterstromluecke-2050)
 
+### h,x-Diagramm · Mollier-Diagramm für feuchte Luft
+
+[![h,x-Diagramm mit drei Zustandspunkten, Behaglichkeitsfeldern, Schwülegrenze und berechneten Heiz- und Kühlleistungen](assets/hx-diagramm.jpg)](https://git.logicc.ch/hx-Diagramm/)
+
+**Luftbehandlung im Diagramm nachvollziehen.** Zustandspunkte lassen sich per Klick setzen, verschieben oder numerisch eingeben. Die Anwendung berechnet Temperatur, relative und absolute Feuchte, Enthalpie, Taupunkt und Dichte sowie die Leistungen für Heizen, Kühlen, Be- und Entfeuchten. Zuschaltbar sind Behaglichkeitsfelder nach Leusden/Freymark, die Schwülegrenze (x = 11,5 g/kg) und PMV-Kategorien nach **EN ISO 7730**. Luftdruck und Standorthöhe sind einstellbar.
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/D3.js-0F172A?style=flat-square&logo=d3&logoColor=white" alt="D3.js">
+  <img src="https://img.shields.io/badge/Vite-0F172A?style=flat-square&logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/SVG-0F172A?style=flat-square&logo=svg&logoColor=white" alt="SVG">
+</p>
+
+[Anwendung öffnen →](https://git.logicc.ch/hx-Diagramm/) · [Repository](https://github.com/Raffa3l/hx-Diagramm)
+
 ## Fachgebiete
 
 | Fachgebiet | Schwerpunkte |
@@ -100,7 +116,7 @@ Besonders interessieren mich die Wechselwirkungen: Wie verändert das Klima die 
 | Ebene | Werkzeuge |
 | --- | --- |
 | **Sprachen** | Python · TypeScript · JavaScript · HTML · CSS |
-| **Daten & Visualisierung** | Pandas · NumPy · MATLAB · KNIME · Plotly · Chart.js · SVG |
+| **Daten & Visualisierung** | Pandas · NumPy · MATLAB · KNIME · Plotly · Chart.js · D3.js · SVG |
 | **Entwicklung & Veröffentlichung** | Git · Vite · GitHub Actions · GitHub Pages |
 | **Arbeitsmodus** | Entwickeln · in Betrieb nehmen · überprüfen · offen teilen |
 

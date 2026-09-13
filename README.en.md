@@ -25,6 +25,7 @@ Raffael is a Swiss engineer working at the intersection of architecture, MEP and
 | [SIA 180 · Thermal Comfort](https://github.com/Raffa3l/SIA-180-thermal-comfort) | Building physics, standards | Interpret measured room temperatures according to SIA 180:2014 and visualise comfort limits. |
 | [Lüftungsassistent · Ventilation Assistant](https://github.com/Raffa3l/Lueftungsassistent) | Summer heat protection | Decide hour by hour whether windows should be open or closed – based on weather forecasts and a room model. |
 | [Winterstromlücke 2050 · Swiss Winter Electricity Gap](https://github.com/Raffa3l/Winterstromluecke-2050) | Energy systems | Explore how renovation, heat pumps and climate change the Swiss winter electricity gap. |
+| [h,x-Diagramm · Psychrometric Chart](https://github.com/Raffa3l/hx-Diagramm) | MEP, air handling | Construct changes of state of humid air in the Mollier chart and read heating, cooling and humidification loads directly. |
 | [todo.txt App](https://github.com/Raffa3l/todo.txt-App) | Tool | Manage tasks in the open plain-text format – entirely in the browser, without a backend. |
 | [Memex](https://github.com/Raffa3l/Memex) | Knowledge management | A personal knowledge system in which an LLM builds and maintains a wiki from PDFs. |
 
@@ -73,6 +74,21 @@ Raffael is a Swiss engineer working at the intersection of architecture, MEP and
 
 [Open App →](https://git.logicc.ch/Winterstromluecke-2050/) · [Repository](https://github.com/Raffa3l/Winterstromluecke-2050)
 
+### h,x-Diagramm · Mollier Chart for Humid Air
+
+[![Mollier h,x chart showing three state points, comfort zones, the mugginess limit and calculated heating and cooling loads](assets/hx-diagramm.jpg)](https://git.logicc.ch/hx-Diagramm/)
+
+**Understanding air handling processes in the chart.** State points can be placed by clicking, dragged or entered numerically. The application calculates temperature, relative and absolute humidity, enthalpy, dew point and density, as well as the loads for heating, cooling, humidification and dehumidification. Optional overlays show the Leusden/Freymark comfort zones, the mugginess limit (x = 11.5 g/kg) and PMV categories according to **EN ISO 7730**. Air pressure and site elevation are adjustable.
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/D3.js-0F172A?style=flat-square&logo=d3&logoColor=white" alt="D3.js">
+  <img src="https://img.shields.io/badge/Vite-0F172A?style=flat-square&logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/SVG-0F172A?style=flat-square&logo=svg&logoColor=white" alt="SVG">
+</p>
+
+[Open App →](https://git.logicc.ch/hx-Diagramm/) · [Repository](https://github.com/Raffa3l/hx-Diagramm)
+
 ## Fields
 
 | Field | Focus |
@@ -100,7 +116,7 @@ I am particularly interested in the interactions: How does a changing climate af
 | Layer | Tools |
 | --- | --- |
 | **Languages** | Python · TypeScript · JavaScript · HTML · CSS |
-| **Data & Visualisation** | Pandas · NumPy · MATLAB · KNIME · Plotly · Chart.js · SVG |
+| **Data & Visualisation** | Pandas · NumPy · MATLAB · KNIME · Plotly · Chart.js · D3.js · SVG |
 | **Development & Publishing** | Git · Vite · GitHub Actions · GitHub Pages |
 | **Working mode** | Develop · put into operation · review · share openly |
 
