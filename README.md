@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.logicc.ch/"><img src="https://img.shields.io/badge/Labor-git.logicc.ch-0F172A?style=flat-square&logo=githubpages&logoColor=white" alt="Labor"></a>
+  <a href="https://git.logicc.ch/"><img src="https://img.shields.io/badge/Labor-git.logicc.ch-0F172A?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGcgdHJhbnNmb3JtPSJyb3RhdGUoMzUgMTIgMTIpIiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMS43NSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNOCAyLjVoOCIvPjxwYXRoIGQ9Ik05LjUgMi41djE1YTIuNSAyLjUgMCAwIDAgNSAwdi0xNSIvPjxwYXRoIGQ9Ik05LjUgMTIuNWg1djVhMi41IDIuNSAwIDAgMS01IDB6IiBmaWxsPSIjZmZmIi8+PC9nPjwvc3ZnPgo=" alt="Labor"></a>
   <a href="https://github.com/Raffa3l?tab=repositories"><img src="https://img.shields.io/badge/Repositories-GitHub-0F172A?style=flat-square&logo=github&logoColor=white" alt="Repositories"></a>
   <a href="#kontakt"><img src="https://img.shields.io/badge/Kontakt-E--Mail-0F172A?style=flat-square&logo=maildotru&logoColor=white" alt="Kontakt"></a>
 </p>
