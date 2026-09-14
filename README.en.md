@@ -61,19 +61,6 @@ Raffael is a Swiss engineer working at the intersection of architecture, MEP and
 
 [Open App →](https://git.logicc.ch/Lueftungsassistent/) · [Repository](https://github.com/Raffa3l/Lueftungsassistent)
 
-### Winterstromlücke Schweiz 2050 · Swiss Winter Electricity Gap
-
-[![Winter electricity analysis showing a baseline of 10.7 TWh and a comparison of scenarios](assets/winterstromluecke-2050.jpg)](https://git.logicc.ch/Winterstromluecke-2050/)
-
-**Exploring how the building sector influences seasonal electricity supply.** Interactive parameter analysis based on the [study by Kelevitz et al. (2025)](https://doi.org/10.3390/en18215601): renovation rate, domestic hot-water heat recovery, share of ground-source heat pumps and climate warming are combined using an additive approximation.
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Chart.js-0F172A?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js">
-</p>
-
-[Open App →](https://git.logicc.ch/Winterstromluecke-2050/) · [Repository](https://github.com/Raffa3l/Winterstromluecke-2050)
-
 ### h,x-Diagramm · Mollier Chart for Humid Air
 
 [![Mollier h,x chart showing three state points, comfort zones, the mugginess limit and calculated heating and cooling loads](assets/hx-diagramm.jpg)](https://git.logicc.ch/hx-Diagramm/)
