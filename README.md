@@ -61,19 +61,6 @@ Raffael ist Ingenieur aus der Schweiz und arbeitet an der Schnittstelle von Arch
 
 [Anwendung öffnen →](https://git.logicc.ch/Lueftungsassistent/) · [Repository](https://github.com/Raffa3l/Lueftungsassistent)
 
-### Winterstromlücke Schweiz 2050
-
-[![Winterstromanalyse mit einem Basiswert von 10.7 TWh und einem Vergleich der Szenarien](assets/winterstromluecke-2050.jpg)](https://git.logicc.ch/Winterstromluecke-2050/)
-
-**Den Einfluss des Gebäudesektors auf die saisonale Stromversorgung erkunden.** Interaktive Parameteranalyse auf Grundlage der [Studie von Kelevitz et al. (2025)](https://doi.org/10.3390/en18215601): Sanierungsrate, Wärmerückgewinnung beim Warmwasser, Anteil der Erdsonden-Wärmepumpen und Klimaerwärmung werden als additive Näherung kombiniert.
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Chart.js-0F172A?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js">
-</p>
-
-[Anwendung öffnen →](https://git.logicc.ch/Winterstromluecke-2050/) · [Repository](https://github.com/Raffa3l/Winterstromluecke-2050)
-
 ### h,x-Diagramm · Mollier-Diagramm für feuchte Luft
 
 [![h,x-Diagramm mit drei Zustandspunkten, Behaglichkeitsfeldern, Schwülegrenze und berechneten Heiz- und Kühlleistungen](assets/hx-diagramm.jpg)](https://git.logicc.ch/hx-Diagramm/)
