@@ -83,7 +83,7 @@ Raffael is a Swiss engineer working at the intersection of architecture, MEP and
 | **Energy Systems** | Heat pumps and cooling supply, electrification, photovoltaics, seasonal storage and winter electricity demand |
 | **MEP** | Ventilation, heating, active and passive cooling, night cooling, domestic hot water, heat recovery, measurement data and operational optimisation |
 
-I am particularly interested in the interactions: How does a changing climate affect building requirements? How do decisions across the building stock affect the energy system?
+The focus is on the interactions: How does a changing climate affect building requirements? How do decisions across the building stock affect the energy system?
 
 ## Approach
 

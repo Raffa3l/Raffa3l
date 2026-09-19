@@ -83,7 +83,7 @@ Raffael ist Ingenieur aus der Schweiz und arbeitet an der Schnittstelle von Arch
 | **Energiesysteme** | Wärmepumpen und Kälteversorgung, Elektrifizierung, Photovoltaik, saisonale Speicherung und Winterstrombedarf |
 | **Gebäudetechnik** | Lüftung, Heizung, aktive und passive Kühlung, Nachtkühlung, Warmwasser, Wärmerückgewinnung, Messdaten und Betriebsoptimierung |
 
-Besonders interessieren mich die Wechselwirkungen: Wie verändert das Klima die Anforderungen an Gebäude? Wie wirken sich Entscheidungen im Gebäudepark auf das Energiesystem aus?
+Im Fokus stehen die Wechselwirkungen: Wie verändert das Klima die Anforderungen an Gebäude? Wie verändern Entscheidungen im Gebäudepark das Energiesystem?
 
 ## Arbeitsweise
 
