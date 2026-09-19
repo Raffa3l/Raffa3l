@@ -12,8 +12,6 @@
 
 Raffael is a Swiss engineer working at the intersection of architecture, MEP and data – where standards meet measurements and a spreadsheet is no longer enough. He develops open, interactive tools that combine physical models with data and software. At [logicc.ch](https://logicc.ch) he brings together his work at the execution and research level.
 
-<p align="center"><em>Developed, put into operation, reviewed, taken apart again – whatever does not prove itself is dropped.</em></p>
-
 <p align="center">Try all tools directly at
   <a href="https://git.logicc.ch/">git.logicc.ch</a> or browse the <a href="https://github.com/Raffa3l?tab=repositories">repositories</a>.
 </p>
@@ -95,7 +93,7 @@ I am particularly interested in the interactions: How does a changing climate af
 | **Limit complexity** | The simplest model that suits the question. |
 | **Keep data inspectable** | Sources, assumptions and processing steps are documented. |
 | **Choose infrastructure deliberately** | As much infrastructure as necessary, as simple and efficient as possible. |
-| **Test against practice** | A model proves itself against measurements and in operation. |
+| **Test against practice** | A model proves itself against measurements and in operation. Whatever does not prove itself is dropped. |
 | **Share openly** | Publish source code, assumptions and results so that others can build on them. |
 
 ## Toolkit
@@ -105,7 +103,6 @@ I am particularly interested in the interactions: How does a changing climate af
 | **Languages** | Python · TypeScript · JavaScript · HTML · CSS |
 | **Data & Visualisation** | Pandas · NumPy · MATLAB · KNIME · Plotly · Chart.js · D3.js · SVG |
 | **Development & Publishing** | Git · Vite · GitHub Actions · GitHub Pages |
-| **Working mode** | Develop · put into operation · review · share openly |
 
 The repositories include research prototypes as well as applications for practical questions. Documentation is written in German or English, depending on the project.
 

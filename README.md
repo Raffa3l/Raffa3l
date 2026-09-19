@@ -12,8 +12,6 @@
 
 Raffael ist Ingenieur aus der Schweiz und arbeitet an der Schnittstelle von Architektur, Gebäudetechnik und Daten – dort, wo Normen auf Messwerte treffen und eine Tabelle nicht mehr reicht. Er entwickelt offene, interaktive Werkzeuge, die physikalische Modelle mit Daten und Software verbinden. Unter [logicc.ch](https://logicc.ch) bündelt er seine Arbeit auf Ausführungs- und Forschungsebene.
 
-<p align="center"><em>Entwickelt, in Betrieb genommen, überprüft, wieder zerlegt – was sich nicht bewährt, fliegt wieder raus.</em></p>
-
 <p align="center">Alle Werkzeuge direkt ausprobieren unter
   <a href="https://git.logicc.ch/">git.logicc.ch</a> oder die <a href="https://github.com/Raffa3l?tab=repositories">Repositories</a> ansehen.
 </p>
@@ -95,7 +93,7 @@ Besonders interessieren mich die Wechselwirkungen: Wie verändert das Klima die 
 | **Komplexität begrenzen** | Das einfachste Modell, das zur Fragestellung passt. |
 | **Daten prüfbar halten** | Quellen, Annahmen und Verarbeitungsschritte sind dokumentiert. |
 | **Infrastruktur bewusst wählen** | So viel Infrastruktur wie nötig, so einfach und effizient wie möglich. |
-| **In der Praxis prüfen** | Ein Modell bewährt sich erst an Messwerten und im Betrieb. |
+| **In der Praxis prüfen** | Ein Modell bewährt sich erst an Messwerten und im Betrieb. Was sich nicht bewährt, fliegt raus. |
 | **Offen teilen** | Quelltext, Annahmen und Ergebnisse so veröffentlichen, dass andere darauf aufbauen können. |
 
 ## Werkzeugkasten
@@ -105,7 +103,6 @@ Besonders interessieren mich die Wechselwirkungen: Wie verändert das Klima die 
 | **Sprachen** | Python · TypeScript · JavaScript · HTML · CSS |
 | **Daten & Visualisierung** | Pandas · NumPy · MATLAB · KNIME · Plotly · Chart.js · D3.js · SVG |
 | **Entwicklung & Veröffentlichung** | Git · Vite · GitHub Actions · GitHub Pages |
-| **Arbeitsmodus** | Entwickeln · in Betrieb nehmen · überprüfen · offen teilen |
 
 Die Repositories enthalten Forschungsprototypen ebenso wie Anwendungen für praktische Fragestellungen. Die Dokumentation ist je nach Projekt auf Deutsch oder Englisch verfasst.
 
