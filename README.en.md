@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.logicc.ch/"><img src="https://img.shields.io/badge/Lab-git.logicc.ch-0F172A?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGcgdHJhbnNmb3JtPSJyb3RhdGUoMzUgMTIgMTIpIiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMS43NSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNOCAyLjVoOCIvPjxwYXRoIGQ9Ik05LjUgMi41djE1YTIuNSAyLjUgMCAwIDAgNSAwdi0xNSIvPjxwYXRoIGQ9Ik05LjUgMTIuNWg1djVhMi41IDIuNSAwIDAgMS01IDB6IiBmaWxsPSIjZmZmIi8+PC9nPjwvc3ZnPgo=" alt="Lab"></a>
+  <a href="https://logicc.dev/"><img src="https://img.shields.io/badge/Lab-logicc.dev-0F172A?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGcgdHJhbnNmb3JtPSJyb3RhdGUoMzUgMTIgMTIpIiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMS43NSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNOCAyLjVoOCIvPjxwYXRoIGQ9Ik05LjUgMi41djE1YTIuNSAyLjUgMCAwIDAgNSAwdi0xNSIvPjxwYXRoIGQ9Ik05LjUgMTIuNWg1djVhMi41IDIuNSAwIDAgMS01IDB6IiBmaWxsPSIjZmZmIi8+PC9nPjwvc3ZnPgo=" alt="Lab"></a>
   <a href="https://github.com/Raffa3l?tab=repositories"><img src="https://img.shields.io/badge/Repositories-GitHub-0F172A?style=flat-square&logo=github&logoColor=white" alt="Repositories"></a>
   <a href="#contact"><img src="https://img.shields.io/badge/Contact-Email-0F172A?style=flat-square&logo=maildotru&logoColor=white" alt="Contact"></a>
 </p>
@@ -10,10 +10,10 @@
 
 **Tools built for practice.**
 
-Raffael is a Swiss engineer working at the intersection of architecture, MEP and data – where standards meet measurements and a spreadsheet is no longer enough. He develops open, interactive tools that combine physical models with data and software. At [logicc.ch](https://logicc.ch) he brings together his work at the execution and research level.
+Raffael is a Swiss engineer working at the intersection of architecture, MEP and data – where standards meet measurements and a spreadsheet is no longer enough. He develops open, interactive tools that combine physical models with data and software. At [logicc.dev](https://logicc.dev) he brings together his work at the execution and research level.
 
 <p align="center">Try all tools directly at
-  <a href="https://git.logicc.ch/">git.logicc.ch</a> or browse the <a href="https://github.com/Raffa3l?tab=repositories">repositories</a>.
+  <a href="https://logicc.dev/">logicc.dev</a> or browse the <a href="https://github.com/Raffa3l?tab=repositories">repositories</a>.
 </p>
 
 ## Selected Work
@@ -29,7 +29,7 @@ Raffael is a Swiss engineer working at the intersection of architecture, MEP and
 
 ### SIA 180 · Thermal Comfort
 
-[![SIA 180 chart showing measured room temperatures and thermal comfort limits](assets/sia-180-thermal-comfort.jpg)](https://git.logicc.ch/SIA-180-thermal-comfort/)
+[![SIA 180 chart showing measured room temperatures and thermal comfort limits](assets/sia-180-thermal-comfort.jpg)](https://logicc.dev/SIA-180-thermal-comfort/)
 
 **Assessing room temperatures in relation to outdoor conditions.** The application relates measured room temperatures to the 48-hour rolling mean outdoor temperature and displays the comfort limits for actively and passively cooled buildings according to **SIA 180:2014**.
 
@@ -40,11 +40,11 @@ Raffael is a Swiss engineer working at the intersection of architecture, MEP and
   <img src="https://img.shields.io/badge/Plotly-0F172A?style=flat-square&logo=plotly&logoColor=white" alt="Plotly">
 </p>
 
-[Open App →](https://git.logicc.ch/SIA-180-thermal-comfort/) · [Repository](https://github.com/Raffa3l/SIA-180-thermal-comfort)
+[Open App →](https://logicc.dev/SIA-180-thermal-comfort/) · [Repository](https://github.com/Raffa3l/SIA-180-thermal-comfort)
 
 ### Lüftungsassistent · Ventilation Assistant
 
-[![Ventilation assistant showing a ventilation recommendation and predicted temperature curves for Zurich](assets/lueftungsassistent.jpg)](https://git.logicc.ch/Lueftungsassistent/)
+[![Ventilation assistant showing a ventilation recommendation and predicted temperature curves for Zurich](assets/lueftungsassistent.jpg)](https://logicc.dev/Lueftungsassistent/)
 
 <sub>Example captured on 12 September 2026. Weather data and recommendations change over time.</sub>
 
@@ -57,11 +57,11 @@ Raffael is a Swiss engineer working at the intersection of architecture, MEP and
   <img src="https://img.shields.io/badge/Open--Meteo-0F172A?style=flat-square" alt="Open-Meteo">
 </p>
 
-[Open App →](https://git.logicc.ch/Lueftungsassistent/) · [Repository](https://github.com/Raffa3l/Lueftungsassistent)
+[Open App →](https://logicc.dev/Lueftungsassistent/) · [Repository](https://github.com/Raffa3l/Lueftungsassistent)
 
 ### h,x-Diagramm · Mollier Chart for Humid Air
 
-[![Mollier h,x chart showing three state points, comfort zones, the mugginess limit and calculated heating and cooling loads](assets/hx-diagramm.jpg)](https://git.logicc.ch/hx-Diagramm/)
+[![Mollier h,x chart showing three state points, comfort zones, the mugginess limit and calculated heating and cooling loads](assets/hx-diagramm.jpg)](https://logicc.dev/hx-Diagramm/)
 
 **Understanding air handling processes in the chart.** State points can be placed by clicking, dragged or entered numerically. The application calculates temperature, relative and absolute humidity, enthalpy, dew point and density, as well as the loads for heating, cooling, humidification and dehumidification. Optional overlays show the Leusden/Freymark comfort zones, the mugginess limit (x = 11.5 g/kg) and PMV categories according to **EN ISO 7730**. Air pressure and site elevation are adjustable.
 
@@ -72,7 +72,7 @@ Raffael is a Swiss engineer working at the intersection of architecture, MEP and
   <img src="https://img.shields.io/badge/SVG-0F172A?style=flat-square&logo=svg&logoColor=white" alt="SVG">
 </p>
 
-[Open App →](https://git.logicc.ch/hx-Diagramm/) · [Repository](https://github.com/Raffa3l/hx-Diagramm)
+[Open App →](https://logicc.dev/hx-Diagramm/) · [Repository](https://github.com/Raffa3l/hx-Diagramm)
 
 ## Fields
 
@@ -108,9 +108,9 @@ The repositories include research prototypes as well as applications for practic
 
 ## Contact
 
-- **Lab:** [git.logicc.ch](https://git.logicc.ch/)
+- **Lab:** [logicc.dev](https://logicc.dev/)
 - **Code:** [@Raffa3l on GitHub](https://github.com/Raffa3l)
-- **Email:** hello [at] logicc [dot] ch
+- **Email:** hello [at] logicc [dot] dev
 
 ## License
 
